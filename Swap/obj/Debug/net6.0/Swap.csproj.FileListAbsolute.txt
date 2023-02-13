@@ -1,0 +1,15 @@
+C:\Users\riya.fathima\source\repos\Swap\obj\Debug\net6.0\Swap.csproj.AssemblyReference.cache
+C:\Users\riya.fathima\source\repos\Swap\obj\Debug\net6.0\Swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riya.fathima\source\repos\Swap\obj\Debug\net6.0\Swap.AssemblyInfoInputs.cache
+C:\Users\riya.fathima\source\repos\Swap\obj\Debug\net6.0\Swap.AssemblyInfo.cs
+C:\Users\riya.fathima\source\repos\Swap\obj\Debug\net6.0\Swap.csproj.CoreCompileInputs.cache
+C:\Users\riya.fathima\source\repos\Swap\bin\Debug\net6.0\Swap.exe
+C:\Users\riya.fathima\source\repos\Swap\bin\Debug\net6.0\Swap.deps.json
+C:\Users\riya.fathima\source\repos\Swap\bin\Debug\net6.0\Swap.runtimeconfig.json
+C:\Users\riya.fathima\source\repos\Swap\bin\Debug\net6.0\Swap.dll
+C:\Users\riya.fathima\source\repos\Swap\bin\Debug\net6.0\Swap.pdb
+C:\Users\riya.fathima\source\repos\Swap\obj\Debug\net6.0\Swap.dll
+C:\Users\riya.fathima\source\repos\Swap\obj\Debug\net6.0\refint\Swap.dll
+C:\Users\riya.fathima\source\repos\Swap\obj\Debug\net6.0\Swap.pdb
+C:\Users\riya.fathima\source\repos\Swap\obj\Debug\net6.0\Swap.genruntimeconfig.cache
+C:\Users\riya.fathima\source\repos\Swap\obj\Debug\net6.0\ref\Swap.dll
